@@ -20,4 +20,4 @@
 
 [twitter]: https://twitter.com/AaronHaist
 [instagram]: https://www.instagram.com/aaronhaist
-[linkedin]: https://www.linkedin.com/in/aaron-h-759061138
+[linkedin]: https://www.linkedin.com/in/aaronhaist
